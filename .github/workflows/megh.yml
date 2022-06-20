@@ -1,4 +1,4 @@
-# This is the  basic workflow 
+# This is the only  basic workflow 
 
 name: Deploy  ECR
 
