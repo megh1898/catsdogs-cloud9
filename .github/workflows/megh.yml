@@ -1,6 +1,6 @@
 # This is the  basic workflow 
 
-name: Deploy  ECR
+name: Deploy to  ECR
 
 # Controls of the workflow 
 on:
