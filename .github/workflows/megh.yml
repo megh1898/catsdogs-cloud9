@@ -4,7 +4,7 @@ name: Deploy to  ECR
 
 # Controls of the workflow 
 on:
-  # Triggers the workflow on branch
+  # Triggers  workflow on branch
   push:
     branches: [ master ]
   # Allows you to run this workflow manually
