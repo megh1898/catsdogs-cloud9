@@ -1,0 +1,6 @@
+.terraform
+.terraform.lock.hcl
+*.pub
+key-megh
+*.tfstate
+*.tfstate.*
